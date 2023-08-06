@@ -1,6 +1,6 @@
----
-title: Deep Learning Papers
----
+
+# Deep Learning Papers
+
 
 
 My paper review as per as I understand. A good habit inspired by [Patrick Langechuan Liu](https://github.com/patrick-llgc/Learning-Deep-Learning).
