@@ -3,7 +3,7 @@
 
 
 
-My paper review as per as I understand. A good habit inspired by [Patrick Langechuan Liu](https://github.com/patrick-llgc/Learning-Deep-Learning).
+My paper reviews as per as I understand. A good habit inspired by [Patrick Langechuan Liu](https://github.com/patrick-llgc/Learning-Deep-Learning).
 These are hand written notes, please mind the handwriting.
 
 ## Note
