@@ -1,4 +1,7 @@
-# Machine Learning Paper Reviews
+---
+title: Machine Learning Papers Review
+---
+
 
 My paper review as per as I understand. A good habit inspired by [Patrick Langechuan Liu](https://github.com/patrick-llgc/Learning-Deep-Learning).
 These are hand written notes, please mind the handwriting.
@@ -9,3 +12,4 @@ This repo mainly contains paper reading about my research: Computer Vision + Vio
 
 Venkat Ramnan K
 MS CS Oregon State University
+
