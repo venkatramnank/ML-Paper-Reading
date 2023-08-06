@@ -1,3 +1,7 @@
 theme: minima
 title: Deep Learning Paper
 author: Venkat Ramnan K
+
+
+url: 'https://venkatramnank.github.io/' # your main domain
+baseurl: 'ML-Paper-Reading/'
