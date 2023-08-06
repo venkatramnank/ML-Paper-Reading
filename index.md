@@ -1,5 +1,5 @@
 ---
-title: Machine Learning Papers Review
+title: Deep Learning Papers
 ---
 
 
