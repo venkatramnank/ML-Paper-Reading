@@ -17,4 +17,7 @@ This post is under construction.
 <img src="{{site.baseurl | prepend: site.url}}images/Diffusion_aug8_7.jpg" alt="Untitled" />
 <img src="{{site.baseurl | prepend: site.url}}images/Diffusion_aug8_8.jpg" alt="Untitled" />
 <img src="{{site.baseurl | prepend: site.url}}images/Diffusion_aug8_9.jpg" alt="Untitled" />
+<img src="{{site.baseurl | prepend: site.url}}images/Diffusion_aug8_10.jpg" alt="Untitled" />
+<img src="{{site.baseurl | prepend: site.url}}images/Diffusion_aug8_11.jpg" alt="Untitled" />
+<img src="{{site.baseurl | prepend: site.url}}images/Diffusion_aug8_12.jpg" alt="Untitled" />
 
