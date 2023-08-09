@@ -1,4 +1,4 @@
-# Notes for GAN
+# Understanding Diffusion 
 
 Date: Aug 8 2023
 
